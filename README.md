@@ -32,7 +32,7 @@ UIView *view1=[[UIView alloc] initWithFrame:[RKFrame XpositionPercentage:25 Ypos
   Run your project in all iOS Devices
 
 
-## Thank you    
-## Ravi Kumar(RK)    
-## Sr.iOS Developer    
+#### Thank you  
+#### Ravi Kumar(RK)  
+#### Sr.iOS Developer  
   jrk.iosdev@gmail.com
