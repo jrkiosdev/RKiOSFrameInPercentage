@@ -13,8 +13,8 @@ Set Single frame with percentage to support in all ios devices
 
 ## USAGE:
 
-  1.Drag RKFrame.h and RKFrame.m files into your project
-  2.Import RKFrame.h file in .pch file or import in your view controller
+  1.Drag RKFrame.h and RKFrame.m files into your project  
+  2.Import RKFrame.h file in .pch file or import in your view controller  
   3.set frame with x-position percentage,y-position percentage,width percentage,height percentage and pass you superview frame ,Please check Example
 
 
