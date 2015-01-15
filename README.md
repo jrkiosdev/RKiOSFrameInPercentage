@@ -11,7 +11,7 @@ Set Single frame with percentage to support in all ios devices
 
 
 
-USAGE:
+## USAGE:
 
   1.Drag RKFrame.h and RKFrame.m files into your project
   2.Import RKFrame.h file in .pch file or import in your view controller
@@ -19,7 +19,7 @@ USAGE:
 
 
 
-Example:
+## Example:
 
 
 UIButton *rkFrameButton=[[UIButton alloc]initWithFrame:[RKFrame XpositionPercentage:25.0 YpositionPercentage:25.0 widthPercentage:50.0 heightPercentage:50 view:self.view.frame]];
@@ -32,7 +32,7 @@ UIView *view1=[[UIView alloc] initWithFrame:[RKFrame XpositionPercentage:25 Ypos
   Run your project in all iOS Devices
 
 
-  Thank you
-  Ravi Kumar(RK)
-  Sr.iOS Developer
+## Thank you    
+## Ravi Kumar(RK)    
+## Sr.iOS Developer    
   jrk.iosdev@gmail.com
